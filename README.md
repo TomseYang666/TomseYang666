@@ -16,9 +16,6 @@
 <a href="https://github.com/TomseYang666" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-<a href="https://space.bilibili.com/482042206?spm_id_from=333.1007.0.0" target="_blank">
-<img src=https://www.bilibili.com/favicon.ico/>
-</a>  
 </div>  
   
 
